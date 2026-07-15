@@ -45,11 +45,17 @@ The dashboard enables stakeholders to:
 **Stakeholders**
 
 •	Executive Management.
+
 •	Commercial Managers.
+
 •	Regional Managers.
+
 •	Marketing Teams.
+
 •	Customer Insights Teams.
+
 •	Business Intelligence Analysts.
+
 •	Operations Managers
 
 **Technology Stack**
