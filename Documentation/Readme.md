@@ -60,45 +60,62 @@ The dashboard enables stakeholders to:
 
 **Technology Stack**
 
-Technology				      Purpose
+Technology				      (Purpose)
 
-Power BI Desktop				Dashboard Development
+Power BI Desktop				(Dashboard Development)
 
-Power Query				      Data Transformation
+Power Query				      (Data Transformation)
 
-DAX					            Business Calculations
+DAX					            (Business Calculations)
 
-SQL					  					Data Preparation
+SQL					  					(Data Preparation)
 
-Star Schema				      Data Modelling
+Star Schema				      (Data Modelling)
 
-Row-Level Security			Secure Reporting
+Row-Level Security			(Secure Reporting)
 
-GitHub					        Portfolio
+GitHub					        (Portfolio)
 
 **Data Model**
 
 The solution follows a Star Schema.
 
-Fact Table
-Fact_Bets
+**Fact Table**
+**Fact_Bets**
 Contains betting transactions including:
+
 •	Bet ID
+
 •	Customer ID
+
 •	Sport ID
+
 •	Province ID
+
 •	Date
+
 •	Stake Amount
+
 •	Revenue
+
 •	Odds
+
 •	Bet Status
-Dimension Tables
+
+**Dimension Tables**
+
 •	Dim_Date
+
 •	Dim_Customer
+
 •	Dim_Sport
+
 •	Dim_Province
+
 •	Dim_Channel
+
 •	Dim_VIP
+
 •	Security Table (RLS)
 
 **Dashboard Features**
