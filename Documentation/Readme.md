@@ -60,14 +60,21 @@ The dashboard enables stakeholders to:
 
 **Technology Stack**
 
-Technology				Purpose
+Technology				      Purpose
+
 Power BI Desktop				Dashboard Development
-Power Query				Data Transformation
-DAX					Business Calculations
+
+Power Query				      Data Transformation
+
+DAX					            Business Calculations
+
 SQL					  					Data Preparation
-Star Schema				Data Modelling
-Row-Level Security				Secure Reporting
-GitHub					Portfolio
+
+Star Schema				      Data Modelling
+
+Row-Level Security			Secure Reporting
+
+GitHub					        Portfolio
 
 **Data Model**
 
