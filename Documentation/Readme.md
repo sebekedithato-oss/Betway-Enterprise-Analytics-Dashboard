@@ -6,6 +6,7 @@ The Betway Enterprise Analytics Dashboard is a comprehensive Power BI solution d
 
 The solution applies enterprise Business Intelligence principles, including dimensional modelling, advanced DAX, Row-Level Security (RLS), drill-through analysis, KPI scorecards, and interactive reporting to transform transactional betting data into meaningful business insights.
 
+
 **Business Problem**
 
 Sports betting operators generate millions of transactions across customers, sports, betting channels, and geographic regions without a centralized analytics solution and the stakeholders face challenges such as:
@@ -16,9 +17,11 @@ Sports betting operators generate millions of transactions across customers, spo
 •	Inconsistent KPI reporting.
 •	Limited executive visibility into commercial performance.
 
+
 **Purpose**
 
 The purpose of this project was to build a scalable analytics platform that enables decision-makers to monitor performance in real time and identify growth opportunities.
+
 
 **Business Objectives**
 
@@ -42,6 +45,7 @@ The dashboard enables stakeholders to:
 
 •	Target Audience.
 
+
 **Stakeholders**
 
 •	Executive Management.
@@ -58,23 +62,23 @@ The dashboard enables stakeholders to:
 
 •	Operations Managers
 
+
 **Technology Stack**
 
-Technology				      (Purpose)
+•	Technology				      (Purpose)
 
-Power BI Desktop				(Dashboard Development)
+•	Power BI Desktop				(Dashboard Development)
 
-Power Query				      (Data Transformation)
+•	Power Query				      (Data Transformation)
 
-DAX					            (Business Calculations)
+•	DAX					            (Business Calculations)
 
-SQL					  					(Data Preparation)
+•	SQL					  					(Data Preparation)
 
-Star Schema				      (Data Modelling)
+•	Star Schema				      (Data Modelling)
 
-Row-Level Security			(Secure Reporting)
+•	Row-Level Security			(Secure Reporting)
 
-GitHub					        (Portfolio)
 
 **Data Model**
 
@@ -102,6 +106,7 @@ Contains betting transactions including:
 
 •	Bet Status
 
+
 **Dimension Tables**
 
 •	Dim_Date
@@ -118,11 +123,13 @@ Contains betting transactions including:
 
 •	Security Table (RLS)
 
+
 **Dashboard Features**
 
 **Executive Summary**
 
 Provides a high-level overview of sportsbook performance through interactive KPI scorecards.
+
 
 **KPIs include:**
 
@@ -134,6 +141,7 @@ Provides a high-level overview of sportsbook performance through interactive KPI
 •	Revenue per Bet
 •	Average Odds
 •	Win Rate
+
 
 **Commercial Analysis**
 
@@ -149,6 +157,7 @@ Provides a high-level overview of sportsbook performance through interactive KPI
 
 Interactive drill-through enables users to move from executive KPIs to detailed sport-level analysis.
 
+
 **Features include:**
 
 •	Dynamic page titles
@@ -156,9 +165,10 @@ Interactive drill-through enables users to move from executive KPIs to detailed 
 •	Executive insights
 •	Detailed trend analysis
 
+
 **Security**
 
-Implemented Dynamic Row-Level Security (RLS) using:
+**Implemented Dynamic Row-Level Security (RLS) using:**
 
 USERPRINCIPALNAME()
 Security mapping table
@@ -174,6 +184,7 @@ Revenue per Bet			Average revenue generated per bet
 Average Odds			Average betting odds selected
 Win Rate				Revenue retained as a percentage of Total Stake
 
+
 **Business Insights**
 
 **The dashboard enables stakeholders to identify:**
@@ -187,6 +198,7 @@ Win Rate				Revenue retained as a percentage of Total Stake
 •	Regional betting performance.
 •	Commercial performance trends.
 
+
 **Business Value**
 
 **The solution delivers value by:**
@@ -198,6 +210,7 @@ Win Rate				Revenue retained as a percentage of Total Stake
 •	Reducing manual reporting effort.
 •	Enabling secure self-service analytics.
 •	Providing actionable commercial insights.
+
 
 **Skills Demonstrated**
 
@@ -215,6 +228,7 @@ This project showcases proficiency in:
 •	Executive Reporting
 •	Row-Level Security
 •	Drill-through Reporting
+
 
 **Performance Optimisation**
 
