@@ -198,21 +198,22 @@ Key Performance Indicators
 
 **KPI					(Description)**
 
-Active Customers			(Number of unique customers placing bets)
+•	Active Customers			(Number of unique customers placing bets)
 
-Total Bets				(Total number of bets placed)
+•	Total Bets				(Total number of bets placed)
 
-Total Stake				(Total value wagered by customers)
+•	Total Stake				(Total value wagered by customers)
 
-Average Stake			(Average value wagered per bet)
+•	Average Stake			(Average value wagered per bet)
 
-Total Revenue			(Revenue retained after settled bets)
+•	Total Revenue			(Revenue retained after settled bets)
 
-Revenue per Bet			(Average revenue generated per bet)
+•	Revenue per Bet			(Average revenue generated per bet)
 
-Average Odds			(Average betting odds selected)
+•	Average Odds			(Average betting odds selected)
 
-Win Rate				(Revenue retained as a percentage of Total Stake)
+•	Win Rate				(Revenue retained as a percentage of Total Stake)
+
 
 
 **Business Insights**
