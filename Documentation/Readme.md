@@ -6,7 +6,7 @@ The Betway Enterprise Analytics Dashboard is a comprehensive Power BI solution d
 
 The solution applies enterprise Business Intelligence principles, including dimensional modelling, advanced DAX, Row-Level Security (RLS), drill-through analysis, KPI scorecards, and interactive reporting to transform transactional betting data into meaningful business insights.
 
-Business Problem
+**Business Problem**
 
 Sports betting operators generate millions of transactions across customers, sports, betting channels, and geographic regions without a centralized analytics solution and the stakeholders face challenges such as:
 •	Limited visibility into betting performance.
@@ -16,11 +16,11 @@ Sports betting operators generate millions of transactions across customers, spo
 •	Inconsistent KPI reporting.
 •	Limited executive visibility into commercial performance.
 
-Purpose
+**Purpose**
 
 The purpose of this project was to build a scalable analytics platform that enables decision-makers to monitor performance in real time and identify growth opportunities.
 
-Business Objectives
+**Business Objectives**
 
 The dashboard enables stakeholders to:
 •	Monitor sportsbook revenue performance.
@@ -32,7 +32,8 @@ The dashboard enables stakeholders to:
 •	Support commercial decision-making.
 •	Improve reporting efficiency through automation.
 •	Target Audience.
-Stakeholders
+
+**Stakeholders**
 
 •	Executive Management.
 •	Commercial Managers.
@@ -42,7 +43,8 @@ Stakeholders
 •	Business Intelligence Analysts.
 •	Operations Managers
 
-Technology Stack
+**Technology Stack**
+
 Technology				Purpose
 Power BI Desktop				Dashboard Development
 Power Query				Data Transformation
@@ -52,7 +54,8 @@ Star Schema				Data Modelling
 Row-Level Security				Secure Reporting
 GitHub					Portfolio
 
-Data Model
+**Data Model**
+
 The solution follows a Star Schema.
 
 Fact Table
@@ -76,11 +79,14 @@ Dimension Tables
 •	Dim_VIP
 •	Security Table (RLS)
 
-Dashboard Features
-Executive Summary
+**Dashboard Features**
+
+**Executive Summary**
+
 Provides a high-level overview of sportsbook performance through interactive KPI scorecards.
 
-KPIs include:
+**KPIs include:**
+
 •	Active Customers
 •	Total Bets
 •	Total Stake
@@ -90,8 +96,10 @@ KPIs include:
 •	Average Odds
 •	Win Rate
 
-Commercial Analysis
-Provides insights into:
+**Commercial Analysis**
+
+**Provides insights into:**
+
 •	Revenue by Sport
 •	Revenue by Province
 •	Revenue Trends
@@ -102,13 +110,15 @@ Provides insights into:
 
 Interactive drill-through enables users to move from executive KPIs to detailed sport-level analysis.
 
-Features include:
+**Features include:**
+
 •	Dynamic page titles
 •	Back navigation
 •	Executive insights
 •	Detailed trend analysis
 
-Security
+**Security**
+
 Implemented Dynamic Row-Level Security (RLS) using:
 
 USERPRINCIPALNAME()
@@ -125,8 +135,9 @@ Revenue per Bet			Average revenue generated per bet
 Average Odds			Average betting odds selected
 Win Rate				Revenue retained as a percentage of Total Stake
 
-Business Insights
-The dashboard enables stakeholders to identify:
+**Business Insights**
+
+**The dashboard enables stakeholders to identify:**
 
 •	High-performing sports.
 •	Underperforming regions.
@@ -137,8 +148,10 @@ The dashboard enables stakeholders to identify:
 •	Regional betting performance.
 •	Commercial performance trends.
 
-Business Value
-The solution delivers value by:
+**Business Value**
+
+**The solution delivers value by:**
+
 •	Automating executive reporting.
 •	Improving decision-making through real-time analytics.
 •	Enhancing visibility into sportsbook performance.
@@ -147,7 +160,8 @@ The solution delivers value by:
 •	Enabling secure self-service analytics.
 •	Providing actionable commercial insights.
 
-Skills Demonstrated
+**Skills Demonstrated**
+
 This project showcases proficiency in:
 •	Business Intelligence
 •	Power BI
@@ -163,7 +177,8 @@ This project showcases proficiency in:
 •	Row-Level Security
 •	Drill-through Reporting
 
-Performance Optimisation
-Project Outcome
+**Performance Optimisation**
+
+**Project Outcome**
 
 The Betway Enterprise Analytics Dashboard demonstrates how enterprise Business Intelligence can transform sportsbook transaction data into meaningful commercial insights. By combining advanced analytics, interactive reporting, and secure access controls, the solution enables stakeholders to monitor performance, understand customer behaviour, and make informed business decisions.
