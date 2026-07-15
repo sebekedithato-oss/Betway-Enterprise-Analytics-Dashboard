@@ -1,5 +1,7 @@
-Betway Enterprise Analytics Dashboard
-Project Overview
+**Betway Enterprise Analytics Dashboard**
+
+**Project Overview**
+
 The Betway Enterprise Analytics Dashboard is a comprehensive Power BI solution designed to provide executives and commercial stakeholders with actionable insights into sportsbook performance. The dashboard consolidates betting activity, customer behaviour, revenue performance, and operational KPIs into an interactive analytics platform that supports strategic and data-driven decision-making.
 
 The solution applies enterprise Business Intelligence principles, including dimensional modelling, advanced DAX, Row-Level Security (RLS), drill-through analysis, KPI scorecards, and interactive reporting to transform transactional betting data into meaningful business insights.
