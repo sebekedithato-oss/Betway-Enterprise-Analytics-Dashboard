@@ -86,6 +86,7 @@ The solution follows a Star Schema.
 
 **Fact Table**
 **Fact_Bets**
+
 Contains betting transactions including:
 
 •	Bet ID
