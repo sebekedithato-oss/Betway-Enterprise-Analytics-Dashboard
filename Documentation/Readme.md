@@ -23,14 +23,23 @@ The purpose of this project was to build a scalable analytics platform that enab
 **Business Objectives**
 
 The dashboard enables stakeholders to:
+
 •	Monitor sportsbook revenue performance.
+
 •	Analyse betting activity across sports.
+
 •	Understand customer betting behaviour.
+
 •	Evaluate provincial performance.
+
 •	Measure customer engagement.
+
 •	Track operational KPIs.
+
 •	Support commercial decision-making.
+
 •	Improve reporting efficiency through automation.
+
 •	Target Audience.
 
 **Stakeholders**
