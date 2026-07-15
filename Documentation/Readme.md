@@ -134,12 +134,19 @@ Provides a high-level overview of sportsbook performance through interactive KPI
 **KPIs include:**
 
 •	Active Customers
+
 •	Total Bets
+
 •	Total Stake
+
 •	Average Stake
+
 •	Total Revenue
+
 •	Revenue per Bet
+
 •	Average Odds
+
 •	Win Rate
 
 
@@ -148,11 +155,17 @@ Provides a high-level overview of sportsbook performance through interactive KPI
 **Provides insights into:**
 
 •	Revenue by Sport
+
 •	Revenue by Province
+
 •	Revenue Trends
+
 •	Customer Segmentation
+
 •	VIP Analysis
+
 •	Betting Activity
+
 •	Drill-through Analysis
 
 Interactive drill-through enables users to move from executive KPIs to detailed sport-level analysis.
@@ -161,8 +174,11 @@ Interactive drill-through enables users to move from executive KPIs to detailed 
 **Features include:**
 
 •	Dynamic page titles
+
 •	Back navigation
+
 •	Executive insights
+
 •	Detailed trend analysis
 
 
@@ -190,12 +206,19 @@ Win Rate				Revenue retained as a percentage of Total Stake
 **The dashboard enables stakeholders to identify:**
 
 •	High-performing sports.
+
 •	Underperforming regions.
+
 •	Customer betting trends.
+
 •	Revenue growth opportunities.
+
 •	Changes in betting behaviour.
+
 •	High-value customer segments.
+
 •	Regional betting performance.
+
 •	Commercial performance trends.
 
 
@@ -204,29 +227,48 @@ Win Rate				Revenue retained as a percentage of Total Stake
 **The solution delivers value by:**
 
 •	Automating executive reporting.
+
 •	Improving decision-making through real-time analytics.
+
 •	Enhancing visibility into sportsbook performance.
+
 •	Supporting customer behaviour analysis.
+
 •	Reducing manual reporting effort.
+
 •	Enabling secure self-service analytics.
+
 •	Providing actionable commercial insights.
 
 
 **Skills Demonstrated**
 
 This project showcases proficiency in:
+
 •	Business Intelligence
+
 •	Power BI
+
 •	Power Query
+
 •	DAX
+
 •	SQL
+
 •	Data Modelling
+
 •	Star Schema Design
+
 •	Data Visualisation
+
 •	KPI Development
+
 •	Commercial Analytics
+
 •	Executive Reporting
+
 •	Row-Level Security
+
 •	Drill-through Reporting
 
 
