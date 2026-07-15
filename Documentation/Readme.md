@@ -188,18 +188,31 @@ Interactive drill-through enables users to move from executive KPIs to detailed 
 **Implemented Dynamic Row-Level Security (RLS) using:**
 
 USERPRINCIPALNAME()
+
 Security mapping table
+
 Province-based access control
+
 Key Performance Indicators
-KPI					Description
-Active Customers			Number of unique customers placing bets
-Total Bets				Total number of bets placed
-Total Stake				Total value wagered by customers
-Average Stake			Average value wagered per bet
-Total Revenue			Revenue retained after settled bets
-Revenue per Bet			Average revenue generated per bet
-Average Odds			Average betting odds selected
-Win Rate				Revenue retained as a percentage of Total Stake
+
+
+**KPI					(Description)**
+
+Active Customers			(Number of unique customers placing bets)
+
+Total Bets				(Total number of bets placed)
+
+Total Stake				(Total value wagered by customers)
+
+Average Stake			(Average value wagered per bet)
+
+Total Revenue			(Revenue retained after settled bets)
+
+Revenue per Bet			(Average revenue generated per bet)
+
+Average Odds			(Average betting odds selected)
+
+Win Rate				(Revenue retained as a percentage of Total Stake)
 
 
 **Business Insights**
